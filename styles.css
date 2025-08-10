@@ -1,0 +1,98 @@
+body{
+    background-image: url(media/kackar-mountains-9655200.jpg);
+    background: size cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+
+
+
+
+
+
+
+}
+
+
+
+
+
+body{
+    background-color: rgb(200, 231, 222);
+    
+color: aqua;
+}
+p{color: rgb(16, 207, 153);
+font-size: small;
+font-family: 'Times New Roman', Times, serif;
+font-style: italic;}
+#eye{
+background-color: aqua;a;dslkfjsd;lkfjsdl;kfjsd;lkfjsd;lk
+font: size 20px;
+color:rgb(6, 197, 15)
+width:50%
+}
+
+    
+text-align:justify;
+
+
+.AZ{
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: normal;
+    background-color: rgb(255, 255, 255);
+    border: 20px solid rgb(0, 0, 0);
+
+}
+
+.words {
+    color: brown;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    background-color: blueviolet;
+    border: 34px solid rgb(16, 207, 153)
+    ;
+}
+
+.world{
+    color: magenta;
+    font-size: larger;
+    font-family: 'Times New Roman',Times , serif;
+    font-style: 'italic';
+    border: 1px solid rgb(16,207,153);
+    background-color: white;
+}
+.world2{
+color: rgb(240, 3, 82);
+    font-size: larger;
+    font-family: 'Times New Roman',Times , serif;
+    font-style: 'italic';
+    border: 1px solid rgb(183, 8, 226);
+    background-color: white;
+
+
+}
+
+
+
+
+.div-form{
+
+    text-align: left;
+}
+
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+
+
+
+
+
